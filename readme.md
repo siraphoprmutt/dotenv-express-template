@@ -10,8 +10,8 @@
 
 ```bash
 
-git clone <your-repo-url>
-cd dotenv
+git clone https://github.com/siraphoprmutt/dotenv-express-template.git
+cd dotenv-express-template
 
 ```
 
